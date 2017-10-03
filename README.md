@@ -1,3 +1,6 @@
+# DEPRECATED
+# Openshift 2 has been shut down on 30 September 2017
+
 # PHP5.5 + Apache 
 
 This modified DIY cartridge provides newer PHP and freer Apache configuration, which can be found in `conf/httpd.conf` folder.
